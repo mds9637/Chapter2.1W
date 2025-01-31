@@ -4,10 +4,7 @@ Developer: Matthew Sharps
 Date: January 31, 2025
 
 Requirements:
-Score 20 in speed variable
-Score 10 in time variable
-Multiply speed by time
-Display contents of distance variable
+Display pressure
 */
 
 
